@@ -1,2 +1,1 @@
-# PrepCurse-henry
-Este es un repositorio del modulo 2 del PrepCurse de Henry
+Vamos a modificar este readme que se autocreo cuando creamos el repositorio y lo vamos a pushear a ver si se sincroniza con el repositorio alojado en github
